@@ -1,0 +1,539 @@
+{
+  "title": "דרום אמריקה · אביב 2026",
+  "subtitle": "ארגנטינה · צ׳ילה · פטגוניה",
+  "start": "2026-10-16",
+  "end": "2026-12-04",
+  "stops": [
+    {
+      "id": "ba-start",
+      "name": "בואנוס איירס",
+      "country": "ארגנטינה",
+      "dates": "16–20 באוקטובר",
+      "start": "2026-10-16",
+      "end": "2026-10-20",
+      "summary": "נחיתה, התאקלמות, שכונות, אוכל ויציאה רגועה לדרום.",
+      "highlights": [
+        "פלרמו",
+        "סן טלמו",
+        "רקולטה",
+        "טיגרה כאופציה"
+      ],
+      "stays": [
+        [
+          "Viajero Buenos Aires Hostel",
+          "חברתי ומרכזי",
+          "hostel"
+        ],
+        [
+          "America del Sur Hostel",
+          "בחירה פופולרית למטיילות סולו",
+          "hostel"
+        ],
+        [
+          "CasaSur Palermo",
+          "מלון בוטיק בפלרמו",
+          "hotel"
+        ]
+      ],
+      "food": [
+        [
+          "Don Julio",
+          "סטייקים — להזמין מראש",
+          "restaurant"
+        ],
+        [
+          "La Cocina",
+          "אמפנדס קלאסיות",
+          "restaurant"
+        ],
+        [
+          "LAB Tostadores",
+          "קפה טוב בפלרמו",
+          "cafe"
+        ],
+        [
+          "Rapanui",
+          "גלידה ושוקולד",
+          "dessert"
+        ]
+      ],
+      "things": [
+        "שוק סן טלמו ביום ראשון",
+        "בית הקברות רקולטה והסביבה",
+        "ערב בפלרמו סוהו",
+        "מופע טנגו רק אם באמת מעניין"
+      ]
+    },
+    {
+      "id": "ush",
+      "name": "אושואיה",
+      "country": "ארגנטינה",
+      "dates": "21–24 באוקטובר",
+      "start": "2026-10-21",
+      "end": "2026-10-24",
+      "summary": "טבע בקצה העולם ויום גמיש לפי מזג האוויר.",
+      "highlights": [
+        "Laguna Esmeralda",
+        "Tierra del Fuego",
+        "תעלת ביגל"
+      ],
+      "stays": [
+        [
+          "Antarctica Hostel",
+          "אווירה חברתית ומטבח משותף",
+          "hostel"
+        ],
+        [
+          "Cruz del Sur Hostel",
+          "מרכזי ופשוט",
+          "hostel"
+        ],
+        [
+          "Alto Andino Hotel",
+          "נוף טוב ומיקום מרכזי",
+          "hotel"
+        ]
+      ],
+      "food": [
+        [
+          "Kaupé",
+          "דגים ופירות ים",
+          "restaurant"
+        ],
+        [
+          "Kalma Restó",
+          "מטבח פטגוני יצירתי",
+          "restaurant"
+        ],
+        [
+          "Ramos Generales El Almacén",
+          "קפה, מאפים ואווירה היסטורית",
+          "cafe"
+        ]
+      ],
+      "things": [
+        "Laguna Esmeralda ביום היציב ביותר",
+        "פארק Tierra del Fuego",
+        "שיט קצר בתעלת ביגל",
+        "להשאיר באפר לרוח וגשם"
+      ]
+    },
+    {
+      "id": "calafate",
+      "name": "אל קלפטה",
+      "country": "ארגנטינה",
+      "dates": "24–27 באוקטובר",
+      "start": "2026-10-24",
+      "end": "2026-10-27",
+      "summary": "קרחון פריטו מורנו ומעבר נוח לאל צ׳לטן.",
+      "highlights": [
+        "Perito Moreno",
+        "Glaciarium",
+        "Laguna Nimez"
+      ],
+      "stays": [
+        [
+          "America del Sur Calafate",
+          "הוסטל חברתי עם נוף",
+          "hostel"
+        ],
+        [
+          "Folk Hostel",
+          "מודרני ונוח",
+          "hostel"
+        ],
+        [
+          "Mirador del Lago",
+          "מלון נעים במיקום טוב",
+          "hotel"
+        ]
+      ],
+      "food": [
+        [
+          "Mi Rancho",
+          "אוכל ארגנטינאי נעים",
+          "restaurant"
+        ],
+        [
+          "La Zaina",
+          "מנות פטגוניות",
+          "restaurant"
+        ],
+        [
+          "Pura Vida",
+          "אוכל ביתי ואפשרויות צמחוניות",
+          "restaurant"
+        ]
+      ],
+      "things": [
+        "יום מלא בפריטו מורנו",
+        "טיילת Laguna Nimez בשקיעה",
+        "Glaciarium ביום חלש",
+        "לא להעמיס יותר מדי לפני אל צ׳לטן"
+      ]
+    },
+    {
+      "id": "chalten",
+      "name": "אל צ׳לטן",
+      "country": "ארגנטינה",
+      "dates": "27 באוקטובר–3 בנובמבר",
+      "start": "2026-10-27",
+      "end": "2026-11-03",
+      "summary": "חלון ארוך כדי לבחור טרקים לפי ראות, רוח ועננות.",
+      "highlights": [
+        "Laguna de los Tres",
+        "Laguna Torre",
+        "Loma del Pliegue Tumbado"
+      ],
+      "stays": [
+        [
+          "Rancho Grande Hostel",
+          "חברתי, פתוח 24/7 ונוח לטרקים",
+          "hostel"
+        ],
+        [
+          "Aylen-Aike Hostel",
+          "קטן וביתי",
+          "hostel"
+        ],
+        [
+          "Chalten Suites",
+          "נוח ומרכזי",
+          "hotel"
+        ]
+      ],
+      "food": [
+        [
+          "La Tapera",
+          "מטבח מקומי ומנות גדולות",
+          "restaurant"
+        ],
+        [
+          "Maffia Trattoria",
+          "פסטה טובה אחרי טרק",
+          "restaurant"
+        ],
+        [
+          "La Cervecería",
+          "בירה ואוכל קז׳ואלי",
+          "bar"
+        ],
+        [
+          "Mathilda",
+          "קפה וארוחת בוקר",
+          "cafe"
+        ]
+      ],
+      "things": [
+        "Laguna de los Tres ביום הראות הטוב ביותר",
+        "Laguna Torre ביום בינוני",
+        "Pliegue Tumbado ביום בהיר ופחות רוח",
+        "יום מנוחה/באפר חובה"
+      ]
+    },
+    {
+      "id": "bariloche",
+      "name": "ברילוצ׳ה",
+      "country": "ארגנטינה",
+      "dates": "4–10 בנובמבר",
+      "start": "2026-11-04",
+      "end": "2026-11-10",
+      "summary": "אגמים, תצפיות, טרקים ושוקולד.",
+      "highlights": [
+        "Circuito Chico",
+        "Refugio Frey",
+        "Cerro Campanario"
+      ],
+      "stays": [
+        [
+          "Hospedaje Penthouse 1004",
+          "נוף מעולה ואווירה חברתית רגועה",
+          "hostel"
+        ],
+        [
+          "Selina Bariloche",
+          "חברתי ועבודה מרחוק",
+          "hostel"
+        ],
+        [
+          "Design Suites Bariloche",
+          "מלון עם נוף לאגם",
+          "hotel"
+        ]
+      ],
+      "food": [
+        [
+          "Alto el Fuego",
+          "סטייקים",
+          "restaurant"
+        ],
+        [
+          "El Boliche de Alberto",
+          "בשר ופסטה",
+          "restaurant"
+        ],
+        [
+          "Manush",
+          "בירה ואוכל פאב",
+          "bar"
+        ],
+        [
+          "Rapanui",
+          "שוקולד וגלידה",
+          "dessert"
+        ]
+      ],
+      "things": [
+        "Circuito Chico + Campanario",
+        "Refugio Frey לפי תנאים",
+        "יום אגמים רגוע",
+        "לשמור זמן לשוקולד ולכביסה"
+      ]
+    },
+    {
+      "id": "carretera",
+      "name": "קרטרה אוסטרל",
+      "country": "צ׳ילה",
+      "dates": "10–19 בנובמבר",
+      "start": "2026-11-10",
+      "end": "2026-11-19",
+      "summary": "כביש נופי, מערות שיש, כפרים קטנים והרבה לוגיסטיקה.",
+      "highlights": [
+        "Marble Caves",
+        "Cerro Castillo",
+        "Puerto Río Tranquilo"
+      ],
+      "stays": [
+        [
+          "Hostel Senderos Patagonia",
+          "פוארטו ריו טרנקילו — בסיס פשוט",
+          "hostel"
+        ],
+        [
+          "Refugio Cerro Castillo",
+          "לינה בסגנון הררי",
+          "hostel"
+        ],
+        [
+          "Lodge מקומי עם ביטול גמיש",
+          "עדיף להזמין מוקדם",
+          "hotel"
+        ]
+      ],
+      "food": [
+        [
+          "מסעדות ביתיות בכפרים",
+          "לבחור לפי מה שפתוח באותו יום",
+          "restaurant"
+        ],
+        [
+          "מאפיות מקומיות",
+          "להצטייד לפני קטעים ארוכים",
+          "cafe"
+        ]
+      ],
+      "things": [
+        "להזמין Marble Caves לפי מזג אוויר",
+        "לבדוק תנאי דרך ודלק מדי יום",
+        "להחזיק מזומן ואוכל ברכב",
+        "לא לבנות על קליטה סלולרית"
+      ]
+    },
+    {
+      "id": "pn",
+      "name": "פוארטו נטאלס",
+      "country": "צ׳ילה",
+      "dates": "19–21 בנובמבר",
+      "start": "2026-11-19",
+      "end": "2026-11-21",
+      "summary": "התארגנות אחרונה, ציוד ואוכל לפני טורס דל פיינה.",
+      "highlights": [
+        "ציוד לטרק",
+        "טיילת",
+        "Milodón כאופציה"
+      ],
+      "stays": [
+        [
+          "Erratic Rock",
+          "בחירה קלאסית למטיילים וציוד",
+          "hostel"
+        ],
+        [
+          "Wild Hostel",
+          "חברתי ומרכזי",
+          "hostel"
+        ],
+        [
+          "The Singular Patagonia",
+          "יוקרתי ומיוחד",
+          "hotel"
+        ]
+      ],
+      "food": [
+        [
+          "Afrigonia",
+          "שילוב אפריקאי־פטגוני",
+          "restaurant"
+        ],
+        [
+          "Santolla",
+          "פירות ים",
+          "restaurant"
+        ],
+        [
+          "Base Camp",
+          "פיצה ואווירת מטיילים",
+          "restaurant"
+        ],
+        [
+          "The Coffee Maker",
+          "קפה וארוחת בוקר",
+          "cafe"
+        ]
+      ],
+      "things": [
+        "בדיקת ציוד מלאה",
+        "הורדת כל ההזמנות אופליין",
+        "קניית חטיפים",
+        "ארוחה מוקדמת ושינה"
+      ]
+    },
+    {
+      "id": "torres",
+      "name": "טורס דל פיינה",
+      "country": "צ׳ילה",
+      "dates": "21–25 בנובמבר",
+      "start": "2026-11-21",
+      "end": "2026-11-25",
+      "summary": "עוגן הטיול — טרק מוזמן מראש. לשמור מסמכים ומפות אופליין.",
+      "highlights": [
+        "Las Torres",
+        "French Valley",
+        "Grey Glacier"
+      ],
+      "stays": [
+        [
+          "הלינות שהוזמנו בטרק",
+          "לא לשנות בלי לבדוק זמינות",
+          "confirmed"
+        ]
+      ],
+      "food": [
+        [
+          "ארוחות הלינה/קמפינג",
+          "לוודא מה כלול בכל יום",
+          "confirmed"
+        ],
+        [
+          "חטיפי אנרגיה מפוארטו נטאלס",
+          "להשלים לפני הכניסה לפארק",
+          "tip"
+        ]
+      ],
+      "things": [
+        "לארוז נגד רוח וגשם",
+        "לצאת מוקדם בכל יום",
+        "לשמור דרכון ואישורים יבשים",
+        "לא להסתמך על אינטרנט"
+      ]
+    },
+    {
+      "id": "salta",
+      "name": "סלטה והצפון",
+      "country": "ארגנטינה",
+      "dates": "26 בנובמבר–1 בדצמבר",
+      "start": "2026-11-26",
+      "end": "2026-12-01",
+      "summary": "מדבר צבעוני, אוכל צפוני ושינוי נוף חד אחרי פטגוניה.",
+      "highlights": [
+        "Purmamarca",
+        "Quebrada de Humahuaca",
+        "Salinas Grandes"
+      ],
+      "stays": [
+        [
+          "Prisamata Boutique",
+          "הוסטל/גסטהאוס מרכזי",
+          "hostel"
+        ],
+        [
+          "Selina Salta",
+          "חברתי ומודרני",
+          "hostel"
+        ],
+        [
+          "Kkala Boutique Hotel",
+          "מלון בוטיק שקט",
+          "hotel"
+        ]
+      ],
+      "food": [
+        [
+          "Doña Salta",
+          "אמפנדס ואוכל צפוני",
+          "restaurant"
+        ],
+        [
+          "El Charrúa",
+          "בשרים",
+          "restaurant"
+        ],
+        [
+          "Café del Tiempo",
+          "קפה ואוכל קל",
+          "cafe"
+        ]
+      ],
+      "things": [
+        "יום Purmamarca + Salinas Grandes",
+        "מרכז סלטה והרכבל",
+        "לנסות אמפנדס סלטניות",
+        "לא לדחוס את Iruya בלי תוספת זמן"
+      ]
+    },
+    {
+      "id": "ba-end",
+      "name": "בואנוס איירס — סיום",
+      "country": "ארגנטינה",
+      "dates": "1–4 בדצמבר",
+      "start": "2026-12-01",
+      "end": "2026-12-04",
+      "summary": "באפר בטוח לפני הטיסה, קניות, אוכל ומנוחה.",
+      "highlights": [
+        "קניות",
+        "ארוחת סיום",
+        "טיסה מ־EZE"
+      ],
+      "stays": [
+        [
+          "לינה בפלרמו או רקולטה",
+          "לבחור קרוב לתוכנית הסיום",
+          "hotel"
+        ],
+        [
+          "Viajero Buenos Aires Hostel",
+          "אם תרצי סיום חברתי",
+          "hostel"
+        ]
+      ],
+      "food": [
+        [
+          "מסעדת סיום לבחירה",
+          "להזמין מראש לערב האחרון",
+          "restaurant"
+        ],
+        [
+          "בית קפה אהוב מהימים הראשונים",
+          "חזרה רגועה",
+          "cafe"
+        ]
+      ],
+      "things": [
+        "לארוז יום קודם",
+        "להשאיר מרווח גדול ל־EZE",
+        "גיבוי תמונות ומסמכים",
+        "לא לקבוע טיסת פנים ביום הטיסה הביתה"
+      ]
+    }
+  ]
+}
